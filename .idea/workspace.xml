@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1c507ae-0fd2-4d60-842a-48c712374914" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BFS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AsFarFromLandAsPossible_1162.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MinimumGeneticMutation_433.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PerfectSquares_279.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ShortestPathWithAlternatingColors_1129.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +35,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/yuxuanzhang/Documents/Fight4Internship/知识点分类刷题/BFS"
+    "last_opened_file_path": "/Users/yuxuanzhang/Documents/Fight4Internship/知识点分类刷题/BFS",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="RunManager" selected="Application.MinimumGeneticMutation_433">
@@ -78,7 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1679027265963</updated>
       <workItem from="1679027267157" duration="4090000" />
-      <workItem from="1679449246882" duration="8360000" />
+      <workItem from="1679449246882" duration="9437000" />
     </task>
     <servers />
   </component>
